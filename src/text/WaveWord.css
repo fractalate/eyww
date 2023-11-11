@@ -1,0 +1,28 @@
+@keyframes swellAndEbb {
+  0% {
+    color: #000;
+  }
+
+  40% {
+    color: #333;
+  }
+
+  70% {
+    color: #777;
+  }
+
+  90% {
+    color: #000;
+  }
+
+  100% {
+    color: #000;
+  }
+}
+
+.swellAndEbb {
+  animation-duration: 4.5s;
+  animation-name: swellAndEbb;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+}
