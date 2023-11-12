@@ -3,15 +3,16 @@
     color: #000;
   }
 
-  40% {
+  20% {
     color: #333;
   }
 
-  70% {
+  35% {
     color: #777;
+    font-style: italic;
   }
 
-  90% {
+  45% {
     color: #000;
   }
 
